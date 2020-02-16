@@ -40,5 +40,8 @@ public class Connecting {
 		return connecting;
 	}
 	
-	
+	public static void ABC(){
+		System.out.println("Test");
+		
+	}
 }
